@@ -1,0 +1,21 @@
+:root{
+    --color-verde: #3D8594;
+    --color-naranja: #D79F64;
+    --color-verde-oscuro: #4B5C30; 
+}
+
+.titulo{
+    font-weight: bold;
+}
+
+.titulo-go{
+    color: var(--color-verde);
+}
+
+.titulo-ur{
+    color: var(--color-naranja);
+}
+
+.titulo-met{
+    color: var(--color-verde-oscuro);
+}
